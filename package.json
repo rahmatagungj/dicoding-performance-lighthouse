@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "dicoding-performance-lighthouse",
+  "description": "dicoding-performance-lighthouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmatagungj/dicoding-performance-lighthouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmatagungj/dicoding-performance-lighthouse/issues"
+  },
+  "homepage": "https://github.com/rahmatagungj/dicoding-performance-lighthouse#readme",
+  "dependencies": {
+    "lighthouse": "^8.6.0",
+    "open": "^8.4.0",
+    "puppeteer": "^11.0.0"
+  }
+}
